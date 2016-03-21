@@ -1,0 +1,6 @@
+MAO
+13
+MALE
+Female
+ALONE
+11
